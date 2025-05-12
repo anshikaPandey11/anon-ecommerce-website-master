@@ -13,9 +13,9 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing Anon
+## Run
 
-To install **Anon**, follow these steps:
+To run the project you can use live server.
 
 ## License
 
